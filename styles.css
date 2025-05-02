@@ -16,7 +16,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: blue;
     text-decoration: none;
     transition: color 0.3s;
     padding: 0.5rem 1rem;
